@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/data
+Buscador.sln
+Buscador.vcxproj
+Buscador.vcxproj.filters
+Buscador.vcxproj.user
+a.exe
